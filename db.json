@@ -1,0 +1,44 @@
+{
+  "meuble":[
+  {
+    id: 1,
+    nom: "Chaise bleue",
+    description: "chaises de bureau vraiment confortables et mignonnes",
+    image: "../assets/images/bluechaire.jpeg",
+    couleur:"blue",
+    dimension: "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
+    quantite: 20,
+    prix: 320
+  },
+  {
+    id: 2,
+    nom: "Étagères murales",
+    description: "Étagères murales et présentoirs ,rangez vos affaires",
+    image: "../assets/images/Wall & Display Shelves.jpeg",
+    dimension: "Hauteur: 50 / Largeur: 60 ",
+    couleur:"brown",
+    quantite: 50
+    prix: 210
+  },
+  {
+    id: 3,
+    nom: "Etagères",
+    description: "Incroyable collection de décorations d'étagères murales en bois esthétiques",
+    image: "../assets/images/69434ca5b78aae9f740e0757abf7bcdb.jpg",
+    couleur:"brown",
+    dimension: "Hauteur: 30 / Largeur: 40",
+    quantite: 30
+    prix: 190
+  },
+  {
+    id: 4,
+    nom: "SEJOUR RYTHME",
+    description: "Salons couleur marron pour votre maison",
+    image: "../assets/images/sejour-rythme.jpg",
+    couleur:"brown",
+    dimension: "Longueur: 5 mètres/ Largeur: 4 métres  ",
+    quantite: 2
+    prix: 4800
+  }
+]
+};
